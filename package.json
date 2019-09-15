@@ -1,0 +1,25 @@
+{
+  "name": "my-package",
+  "version": "0.0.1",
+  "description": "My package is a very wonderful package",
+  "main": "main.c",
+  "scripts": {
+    "test": "test me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guillermocalvo/my-package.git"
+  },
+  "keywords": [
+    "test",
+    "package",
+    "test",
+    "package"
+  ],
+  "author": "Guillermo",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/guillermocalvo/my-package/issues"
+  },
+  "homepage": "https://github.com/guillermocalvo/my-package#readme"
+}
